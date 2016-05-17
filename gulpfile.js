@@ -17,8 +17,6 @@ gulp.task('deploy', ['jekyll-build'], function () {
   return gulp.src('./_site/**/*')
   .pipe(ghPages({
     remoteUrl: 'git@github.com:demcoach/demcoach.com.git',
-    origin: 'github',
-    push: true
   }));
 });
 
