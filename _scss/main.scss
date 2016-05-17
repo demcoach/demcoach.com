@@ -1,6 +1,5 @@
-@import "reset";
-@import "syntax";
-
-body {
-    background: white;
-}
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300&subset=latin,latin-ext);
+@import "constants";
+@import "core";
+@import "home"

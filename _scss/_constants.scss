@@ -1,0 +1,15 @@
+$screen-tablet-min: 768px;
+$screen-desktop-min: 992px;
+$screen-lg-desktop-min: 1200px;
+
+$screen-phone-max: ($screen-tablet-min - 1);
+$screen-tablet-max: ($screen-desktop-min - 1);
+$screen-desktop-max: ($screen-lg-desktop-min - 1);
+
+$heading-font: 'PT Sans', sans-serif;
+$body-font: 'Open Sans', sans-serif;
+
+$header-bg-color: #ffffff;
+$header-color: lighten(#335348, 15%);
+$footer-bg-color: $header-bg-color;
+$footer-color: $header-color;

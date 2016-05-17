@@ -1,0 +1,78 @@
+@media screen and (max-width: $screen-phone-max) {
+  .item-container {
+    flex-flow: column wrap !important;
+    .item {
+      flex: 2 0 100% !important;
+    }
+  }
+}
+
+#home {
+  $left-item-color: #4D2B46;
+  $center-item-color: #335348;
+  $right-item-color: #CE3E61;
+  $lightening-percent: 7%;
+  .banner {
+    min-width: 100%;
+    min-height: 450px;
+    background-color: #C6AC9D;
+    box-sizing: border-box;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+    color: #f2f2f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: $heading-font;
+    font-size: 48pt;
+  }
+  .item-container {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #232233;
+    .item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+      text-decoration: none;
+      font-family: $body-font;
+      font-size: 24pt;
+      flex :2 0;
+      min-height: 250px;
+      transition: all 0.3s linear;
+      &:hover, &:focus {
+        box-shadow: 0 3px 4px rgba(0,0,0,0.3);
+        cursor: pointer;
+        color: darken(white, $lightening-percent);
+        text-decoration: none;
+      }
+      
+      &:visited {
+        text-decoration: none;
+        color: darken(white, $lightening-percent);
+      }
+      
+      &#left {
+        background-color: $left-item-color;
+        &:hover {
+          background-color: lighten($left-item-color, $lightening-percent);
+        }
+      }
+      &#center {
+        background-color: #335348;
+        &:hover {
+          background-color: lighten($center-item-color, $lightening-percent);
+        }
+      }
+      &#right {
+        background-color: #CE3E61;
+        &:hover {
+          background-color: lighten($right-item-color, $lightening-percent);
+        }
+      }
+    }
+  }
+}
