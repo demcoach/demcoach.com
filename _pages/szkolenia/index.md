@@ -10,6 +10,7 @@ Wierzę, że szkolenia to nie tylko przekazywanie nowej wiedzy, a zdobywanie now
 Ta forma rozwoju osobistego posiada swą niezwykłą wartość w pracy grupowej, w otwartości uczestników na siebie nawzajem oraz w dzieleniu się doświadczeniem - moim zadaniem, jako trenera, jest stworzenie odpowiednich do tego warunków.
 
 Bazując na własnym doświadczeniu zawodowym specjalizuję się w szkoleniach  związanych m. in. z poniższymi tematami:
+
 - Komunikacja
 - Zarządzaniem zespołem
 - Umiejętności sprzedażowe
