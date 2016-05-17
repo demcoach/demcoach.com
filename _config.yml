@@ -1,4 +1,17 @@
-name: Your New Jekyll Site
+title: demCoach
+description: 'Aleksandra Demko - trener, coach, obieżyświat. Charakteryzuje się uważnością na drugą osobę, podażaniem za klientem i procesem. To spontaniczność z odrobiną szaleństwa'
+live_url: 'http://demcoach.com'
+
+name: demCoach
+include: ['_pages']
 markdown: redcarpet
-highlighter: pygments # or rouge or null
+highlighter: null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      author: "Aleksandra Demko"
+      description: 'Aleksandra Demko - trener, coach, obieżyświat. Charakteryzuje się uważnością na drugą osobę, podażaniem za klientem i procesem. To spontaniczność z odrobiną szaleństwa'
