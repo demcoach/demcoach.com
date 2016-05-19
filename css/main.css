@@ -154,6 +154,9 @@ html {
   min-width: 100%;
   min-height: 450px;
   background-color: #C6AC9D;
+  background-image: url(../_assets/home/banner.jpg);
+  background-size: cover;
+  background-position: top;
   box-sizing: border-box;
   padding-left: 2%;
   padding-right: 2%;
