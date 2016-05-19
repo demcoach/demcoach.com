@@ -20,5 +20,5 @@ Bazując na własnym doświadczeniu zawodowym specjalizuję się w szkoleniach  
 - Organizacja pracy w call center
 - Train the trainers
 
-Jeśli zależy Ci na własnym rozwoju - sprawdź dostępne terminy i tematy tu. Jeśli chcesz rozwijać swoich pracowników w jednym z powyższych tematów lub pokrewnych - zapraszam do kontaktu - aleksandra@demcoach.com. Wszelkie rozwiązania dostosowuję do indywidualnych potrzeb.
+Jeśli zależy Ci na własnym rozwoju - sprawdź dostępne terminy i tematy tu. Jeśli chcesz rozwijać swoich pracowników w jednym z powyższych tematów lub pokrewnych - zapraszam do [kontaktu](http://www.demcoach.com/kontakt). Wszelkie rozwiązania dostosowuję do indywidualnych potrzeb.
 
