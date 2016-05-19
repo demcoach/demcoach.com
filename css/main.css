@@ -57,22 +57,24 @@ html {
           outline: 0;
           text-decoration: none;
           color: inherit; }
-    html body main div[ng-view] {
-      min-height: 300px; }
-    html body main .page {
-      padding: 0 4vw; }
-      html body main .page .heading {
-        font-family: "PT Sans", sans-serif;
-        font-size: 24pt;
-        -webkit-transition: all 0.5s ease-in-out;
-        transition: all 0.5s ease-in-out; }
-      html body main .page .content {
-        padding: 0 7vw;
-        font-family: "Open Sans", sans-serif;
-        font-size: 12pt;
-        line-height: 1.7;
-        text-align: justify;
-        font-weight: normal; }
+    html body main {
+      min-height: 70vh; }
+      html body main div[ng-view] {
+        min-height: 300px; }
+      html body main .page {
+        padding: 0 4vw; }
+        html body main .page .heading {
+          font-family: "PT Sans", sans-serif;
+          font-size: 24pt;
+          -webkit-transition: all 0.5s ease-in-out;
+          transition: all 0.5s ease-in-out; }
+        html body main .page .content {
+          padding: 0 7vw;
+          font-family: "Open Sans", sans-serif;
+          font-size: 12pt;
+          line-height: 1.7;
+          text-align: justify;
+          font-weight: normal; }
     html body footer {
       background-color: #ffffff;
       margin-top: 2rem;

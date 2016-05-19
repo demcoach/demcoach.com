@@ -46,6 +46,7 @@ html {
       }
     }
     main {
+      min-height: 70vh;
       div[ng-view] {
         min-height: 300px;
       }
