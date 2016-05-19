@@ -3,7 +3,7 @@ description: 'Aleksandra Demko - trener, coach, obieżyświat. Charakteryzuje si
 live_url: 'http://demcoach.com'
 
 name: demCoach
-include: ['_pages']
+include: ['_pages', '_assets']
 markdown: redcarpet
 highlighter: null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
