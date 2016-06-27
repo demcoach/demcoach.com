@@ -1,5 +1,6 @@
 ---
 layout: page
+id: kontakt
 title: Kontakt
 permalink: "/kontakt/"
 description: Skontaktuj się z Aleksandrą Demko - trenerem, coachem, projektantem programów rozwojowych.
