@@ -15,7 +15,12 @@
   .banner {
     min-width: 100%;
     min-height: 450px;
-    background-color: #C6AC9D;
+    // background-color: #C6AC9D;
+    background-color: #002D56;
+    background-image: url(/assets/home/dzien_banner.jpg);
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
     box-sizing: border-box;
     padding-left: 2%;
     padding-right: 2%;
@@ -49,12 +54,12 @@
         color: darken(white, $lightening-percent);
         text-decoration: none;
       }
-      
+
       &:visited {
         text-decoration: none;
         color: darken(white, $lightening-percent);
       }
-      
+
       &#left {
         background-color: $left-item-color;
         &:hover {
