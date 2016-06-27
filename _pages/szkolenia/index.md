@@ -5,15 +5,15 @@ permalink: "/szkolenia/"
 description: Zdobądź praktyczne umiejętności na szkoleniach prowadzonych przez Aleksandrę Demko. Treść szkoleń dostosowana do potrzeb i oczekiwań klientów
 ---
 
-Wierzę, że szkolenia to nie tylko przekazywanie nowej wiedzy, a zdobywanie nowych umiejętności, które wykorzystywane są w pracy i w życiu osobistym. Z tego powodu wszelkie szkolenia prowadzę w formie warsztatowej. Poprzez specjalnie zaprojektowane ćwiczenia, zadania, gry symulacyjne, ale również dyskusję, burzę mózgów i inne interaktywne metody pracy uczestnicy szkoleń mają okazję doświadczyć określonych zachowań, sprawdzić samych siebie w konkretnych sytuacjach i jednocześnie dokonać analizy własnych przeżyć.
+Szkolenie to wydarzenie, w którym oprócz zdobycia nowej wiedzy, uporządkowania posiadanych wiadomości w danym temacie, zdobywa się nowe umiejętności. W celu osiągnięcia takiego celu wszelkie szkolenia prowadzę w formie warsztatowej. Poprzez specjalnie zaprojektowane ćwiczenia, zadania, gry symulacyjne, ale również dyskusje, burze mózgów i inne interaktywne metody pracy, uczestnicy moich zajęć mają okazję doświadczyć określonych zachowań, sprawdzić samych siebie w konkretnych sytuacjach i jednocześnie dokonać analizy własnych przeżyć.
 
-Ta forma rozwoju osobistego posiada swą niezwykłą wartość w pracy grupowej, w otwartości uczestników na siebie nawzajem oraz w dzieleniu się doświadczeniem - moim zadaniem, jako trenera, jest stworzenie odpowiednich do tego warunków. 
+Ta forma rozwoju osobistego posiada swą niezwykłą wartość w pracy grupowej, w otwartości uczestników na siebie nawzajem oraz w dzieleniu się doświadczeniem - moim zadaniem, jako trenera, jest stworzenie odpowiednich do tego warunków.  
 	
-Bazując na własnym doświadczeniu zawodowym specjalizuję się w szkoleniach  związanych m. in. z poniższymi tematami:
-
+Spędziłam 1700 godzin na sali szkoleniowej, prowadząc warsztaty z najróżniejszych obszarów. Bazując również na własnym doświadczeniu zawodowym specjalizuję się w szkoleniach  związanych m. in. z poniższymi tematami:
 
 - Komunikacja
-- Zarządzaniem zespołem
+- Budowanie zespołu 
+- Zarządzanie zespołem
 - Umiejętności sprzedażowe
 - Wystąpienia publiczne 
 - Zarządzanie sobą w czasie
