@@ -62,7 +62,6 @@ html {
           font-family: $body-font;
           font-size: 12pt;
           line-height: 1.7;
-          text-align: justify;
           font-weight: normal;
         }
       }
@@ -121,9 +120,30 @@ html {
         display: flex;
         justify-content: center;
       }
+      .content {
+        text-align: left;
+      }
     }
     .item-container {
       flex-flow: column wrap;
+    }
+  }
+}
+
+@media screen and (min-width: $screen-tablet-min) {
+  main {
+    .page {
+      .content {
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $screen-desktop-min) {
+  main {
+    .page#kontakt {
+      padding-top: 7rem;
     }
   }
 }
