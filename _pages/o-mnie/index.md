@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About - Aleksandra Demko
-permalink: "/about/"
+title: O mnie - Aleksandra Demko
+permalink: "/o-mnie/"
 ---
 Trener, coach, rekruter, menadżer, właściciel firmy, podróżnik... To słowa, za którymi kryje się blisko 10 - letnie doświadczenie związane z działalnością rozwojową, to również 7 lat pracy na stanowiskach menadżerskich, to 1,5 - roczna podróż w nieznane.
 
