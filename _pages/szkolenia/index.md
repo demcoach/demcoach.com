@@ -13,7 +13,7 @@ Spędziłam 1700 godzin na sali szkoleniowej, prowadząc warsztaty z najróżnie
 
 - Komunikacja
 - Budowanie zespołu 
-- Zarządzanie zespołem
+- [Zarządzanie zespołem](http://www.demcoach.com/szkolenia/zarzadzanie-zespolem)
 - Umiejętności sprzedażowe
 - Wystąpienia publiczne 
 - Zarządzanie sobą w czasie
