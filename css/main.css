@@ -69,7 +69,6 @@ html {
           -webkit-transition: all 0.5s ease-in-out;
           transition: all 0.5s ease-in-out; }
         html body main .page .content {
-          padding: 0 7vw;
           font-family: "Open Sans", sans-serif;
           font-size: 12pt;
           line-height: 1.7;
@@ -137,7 +136,9 @@ html {
         -ms-flex-pack: center;
             justify-content: center; }
   main .page .content {
-    text-align: left; }
+    text-align: left;
+    padding: 0 5vw;
+    padding-top: 3vh; }
   main .item-container {
     -ms-flex-flow: column wrap;
         flex-flow: column wrap; } }
@@ -146,9 +147,17 @@ html {
   main .page .content {
     text-align: justify; } }
 
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  main .page .content {
+    padding: 0 10vw;
+    padding-top: 5vh; } }
+
 @media screen and (min-width: 992px) {
   main .page#kontakt {
-    padding-top: 7rem; } }
+    padding-top: 7rem; }
+  main .page .content {
+    padding: 0 20vw;
+    padding-top: 5vh; } }
 
 @media screen and (max-width: 767px) {
   .item-container {
