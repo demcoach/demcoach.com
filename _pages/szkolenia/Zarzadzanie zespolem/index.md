@@ -5,7 +5,9 @@ permalink: "/szkolenia/zarzadzanie-zespolem"
 description: Zdobądź praktyczne umiejętności na szkoleniach prowadzonych przez Aleksandrę Demko. Treść szkoleń dostosowana do potrzeb i oczekiwań klientów
 ---
 
-Jaki wpływ szef ma na swoich pracowników? Czy zaangażowanie pracowników w realizowane zadania uzależnione jest od działań szefa?
+
+##Zarządzanie zespołem
+Jaki wpływ ma szef na swoich pracowników? Czy zaangażowanie pracowników w realizowane zadania uzależnione jest od działań szefa?
 
 Motywowanie innych nie jest łatwym zadaniem, nie wystarczy tylko wiedza, umiejętności przydatne w zarządzaniu ludźmi, niezbędna jest umiejętność żonglowania atrybutami, jakie posiada szef. 
 
